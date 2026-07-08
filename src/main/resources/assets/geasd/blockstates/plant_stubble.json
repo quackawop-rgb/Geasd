@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "kind=short_grass": {
+      "model": "geasd:block/stubble_short_grass"
+    },
+    "kind=tall_grass": {
+      "model": "geasd:block/stubble_tall_grass"
+    },
+    "kind=fern": {
+      "model": "geasd:block/stubble_fern"
+    },
+    "kind=large_fern": {
+      "model": "geasd:block/stubble_large_fern"
+    }
+  }
+}
